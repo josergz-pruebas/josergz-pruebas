@@ -2,13 +2,13 @@
 <h3 align="center">Frontend Developer from México</h3>
 
 <p align="center">
-  💻 Software Engineer | 🌱 Learning React | 🤝 Open to Frontend Roles
+  💻 Software Engineer | 🌱 Learning React | 🤝 Open to Collaborate
 </p>
 
 <p align="center">
   🚀 <a href="https://josergz.dev" target="_blank" rel="noopener"><strong>Portfolio</strong></a> &nbsp;|&nbsp;
-  📄 <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>Download CV</strong></a> &nbsp;|&nbsp;
-  📫 <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email Me</strong></a>
+  📄 <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>CV</strong></a> &nbsp;|&nbsp;
+  📫 <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email</strong></a>
 </p>
 
 ---
