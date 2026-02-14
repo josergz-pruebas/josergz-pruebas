@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h3 align="center">  Frontend Developer | Software Engineer</h3>
+<h2 align="center">  Frontend Developer | Software Engineer</h3>
 
 ---
 
