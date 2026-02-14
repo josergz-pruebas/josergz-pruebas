@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
 <h2 align="center">  Frontend Developer | Software Engineer</h3>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -13,7 +13,6 @@ Frontend-focused Software Engineer with experience building responsive and scala
 - 📄 Download my CV <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
 - 📫 Reach out via <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email</strong></a>.
 
----
 
 ## Tech Stack
 
@@ -21,7 +20,7 @@ Frontend-focused Software Engineer with experience building responsive and scala
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,astro,git,github,vercel" alt="Tech Stack" />
 </p>
 
----
+
 
 ## GitHub Stats
 
@@ -29,7 +28,6 @@ Frontend-focused Software Engineer with experience building responsive and scala
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josergz&theme=github_dark" />
 </p>
 
----
 
 ## 🌐 Connect with Me
 
