@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm José Rodríguez</h1>
-<h2 align="center">  Frontend Developer | Software Engineer</h3>
+<h2 align="center">  Frontend Developer | Software Engineer</h2>
+
+
 
 **Software Engineer** focused on **frontend development**. Experienced in **responsive** and **scalable web apps**, with a **solid understanding** of **HTML**, **CSS**, **JavaScript**, and **modern frameworks**. Currently learning **React**, with a focus on **performance**, **maintainability**, and **clean architecture**.
 
@@ -14,7 +16,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,astro,git,github,vercel" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro,git,github,vercel" alt="Tech Stack" />
 </p>
 
 <p align="center">
