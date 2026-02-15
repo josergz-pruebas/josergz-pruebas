@@ -16,6 +16,9 @@ Frontend-focused **Software Engineer** with experience building responsive and s
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,astro,git,github,vercel" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,vscode,idea,latex,htmx,md,mint,windows" alt="Tech Stack" />
+</p>
 
 
 
