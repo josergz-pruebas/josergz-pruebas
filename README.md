@@ -12,6 +12,7 @@
 - 📄 Download my CV <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
 - 📫 Reach out via <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email</strong></a>.
 
+<br/>
 
 ## 🛠 Tech Stack
 
@@ -36,7 +37,7 @@ Java (OOP & Core Fundamentals)
 <p >
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
-
+<br/>
 
 
 ## 📊 GitHub Stats
@@ -44,6 +45,7 @@ Java (OOP & Core Fundamentals)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josergz&theme=github_dark" />
 </p>
+<br/>
 
 ## 🌐 Contact
 
