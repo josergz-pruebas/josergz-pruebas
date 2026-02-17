@@ -22,9 +22,6 @@ HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • R
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro" />
 </p>
 
----
-
-
 ### ⚙️ Tools
 Git • GitHub • Vercel • VS Code • IntelliJ IDEA
 
@@ -32,7 +29,6 @@ Git • GitHub • Vercel • VS Code • IntelliJ IDEA
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea" />
 </p>
 
----
 
 ### 🧠 Programming Foundations
 Java (OOP & Core Fundamentals)
@@ -41,7 +37,6 @@ Java (OOP & Core Fundamentals)
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
----
 
 
 ## 📊 GitHub Stats
