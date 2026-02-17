@@ -18,14 +18,14 @@
 ### 🎨 Frontend
 HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • React • Astro
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro" />
 </p>
 
 ### ⚙️ Tools
 Git • GitHub • Vercel • VS Code • IntelliJ IDEA
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea" />
 </p>
 
@@ -33,7 +33,7 @@ Git • GitHub • Vercel • VS Code • IntelliJ IDEA
 ### 🧠 Programming Foundations
 Java (OOP & Core Fundamentals)
 
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
