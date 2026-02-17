@@ -11,16 +11,29 @@
 - 🚀 Visit my portfolio at <a href="https://josergz.dev" target="_blank" rel="noopener"><strong>josergz.dev</strong></a>.
 - 📄 Download my CV <a href="https://josergz.dev/assets/CV-Jose-Rodriguez-ENG.pdf" target="_blank" rel="noopener"><strong>here</strong></a>.
 - 📫 Reach out via <a href="mailto:contacto@josergz.dev" target="_blank" rel="noopener"><strong>Email</strong></a>.
-
+<br/>
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro,git,github,vercel" alt="Tech Stack" />
+### 🎨 Frontend
+<p>
+  HTML • CSS • Sass • Bootstrap • Tailwind CSS • JavaScript (ES6+) • React • Astro
 </p>
 
+### 🧠 Programming Foundations
+<p>
+  Java (OOP & Core Fundamentals)
+</p>
+
+### ⚙️ Tools
+<p>
+  Git • GitHub • Vercel
+</p>
+
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,vscode,idea,latex,htmx,md,mint,windows" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,astro,java,git,github,vercel" />
 </p>
 
 
