@@ -60,10 +60,13 @@ Java (OOP • Data Structures • Core Fundamentals)
 
 # 📈 GitHub Stats
 
-<div data-importer="stats" align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josergz-pruebas&theme=dracula&hide_border=true" width="800"/>
+</p>
 
-  <img src="https://raw.githubusercontent.com/josergz-pruebas/josergz-pruebas/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josergz-pruebas&theme=dracula&hide_border=true" width="800"/>
+</p>
 
 ###
 
