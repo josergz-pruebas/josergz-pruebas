@@ -61,11 +61,11 @@ Java (OOP • Data Structures • Core Fundamentals)
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=josergz-pruebas&theme=dracula&hide_border=true" width="800"/>
+  <img src="https://streak-stats.demolab.com?user=josergz-pruebas&theme=dracula&hide_border=true" width="600"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josergz-pruebas&theme=dracula&hide_border=true" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josergz-pruebas&theme=dracula&hide_border=true" width="600"/>
 </p>
 
 ###
